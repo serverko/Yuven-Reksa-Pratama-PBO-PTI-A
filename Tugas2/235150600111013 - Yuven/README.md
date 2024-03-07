@@ -1,8 +1,8 @@
 # 📁 Tugas 2 : Class and Object
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Yuven Reksa Pratama            
+NIM  : 235150600111013
 
 ## 📤 Submission
 
@@ -11,12 +11,11 @@ NIM  : 22xxxxxx
 
 ### Gunakan tempalate dibawah apabila pengerjaan bagian tugas praktikum merupakan aplikasi interaktif, dan hapus kode baris ini, hapus template berikut beserta kata baris ini apabila tugas praktikum bukan aplikasi interaktif
 
-Nama Aplikasi Program :    
+Nama Aplikasi Program : Info Buku
 Fitur Aplikasi Program :                   
-1. fitur A
-2. fitur B
-3. fitur C 
-4. dst
+1. Menampilkan seluruh judul buku
+2. Menampilkan seluruh informasi penulis
+3. Menampilkan seluruh informasi buku 
 
 ## 🔗 Link Penjelasan Tugas
 
