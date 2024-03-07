@@ -1,9 +1,9 @@
-public class Buku {
+public class InfoBuku {
 
     private int jumlah;
     private double kecepatan;
 
-    public Buku(int jumlahHlm, double kecepatantulis) {
+    public InfoBuku(int jumlahHlm, double kecepatantulis) {
         this.jumlah = jumlahHlm;
         this.kecepatan = kecepatantulis;
     }
@@ -13,7 +13,7 @@ public class Buku {
     }
 
     public static void main(String[] args) {
-        Buku bukuTulis = new Buku(100, 0.5);
+        InfoBuku bukuTulis = new InfoBuku(100, 0.5);
         double lamaSelesai = bukuTulis.lamaSelesai();
         System.out.println("Lamanya menyelesaikan buku: " + lamaSelesai + " hari");
     }
