@@ -1,18 +1,18 @@
 # 📁 Tugas 3 : Class Diagram
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Yuven Reksa Pratama    
+NIM  : 235150600111013
 
 ## 📤 Submission
 
 Tema yang dipilih : 
 Class Diagram yang dibuat : 
-1. Class Diagram 1
-2. Class Diagram 2
-dst
+1. Class BukuPerpus
+2. Class Pengunjung
+3. Class Penjaga
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/R_kQVR7Xb3Q
 
