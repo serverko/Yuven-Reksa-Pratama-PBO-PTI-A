@@ -21,7 +21,7 @@ kodenya dengan inputan user yang interaktif! (key : menggunakan array)
 = Dengan menggunakan array students
 
 5. Bagaimana cara menghitung banyaknya objek yang kita buat dari sebuah menginstance 
-objek  dari  mein  class?  Tuliskan  kodenya  kemudian  tampilkan  informasinya  dengan 
+objek  dari  main  class?  Tuliskan  kodenya  kemudian  tampilkan  informasinya  dengan 
 memanggil method jumlahObjek() bertipe void!
 = variabel banyakStudent akan bertambah setiap kali sebuah objek Student dibuat pada konstruktor. 
 Kemudian, dipanggil metode jumlahObjek() bertipe void untuk menampilkan jumlah total objek yang telah dibuat.
