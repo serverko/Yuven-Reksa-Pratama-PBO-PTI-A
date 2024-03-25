@@ -14,4 +14,4 @@ Class Diagram yang dibuat :
 
 ## 🔗 Link Penjelasan Tugas
 
-https://youtu.be/R_kQVR7Xb3Q
+https://youtu.be/GkxIcAgxEeM
