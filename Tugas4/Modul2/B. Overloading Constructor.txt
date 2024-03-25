@@ -1,0 +1,14 @@
+1. Lakukan percobaan diatas dan benahi jika menemukan kesalahan!
+= Sudah dilakukan percobaan dan sudah dilakukan perbaikan pada kesalahan.
+
+2. Pada class lingkaran Tambahkan constructor dengan parameter int tinggi, apa yang terjadi 
+dan jelaskan!
+= Jika ditambahkan parameter int tinggi, maka terdapat dua constructor dengan parameter yang sama
+hal ini akan mengakibatkan error.
+
+3. Pada class lingkaran tambahkan constructor dengan tipe data String alas dan String tinggi, 
+kemudian  tambahkan  method  untuk  melakukan  parsing  atau  perubahan  tipe  data  dari 
+String  menjadi  integer.  Setelah  itu  pada  method  main  lakukan  instansiasi  objek  dengan 
+nama objek Lstring dengan memanggil constructor bertipe data String. Jelaskan! 
+= Penggunaan method parseInt membantu memastikan nilai input yang dimasukkan dan outputnya  
+adalah angka karena telah di konversi dari String.

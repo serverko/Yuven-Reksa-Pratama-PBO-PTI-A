@@ -1,0 +1,13 @@
+1. Lakukan percobaan Instance Method diatas dan benahi jika menemukan kesalahan! 
+= Sudah dilakukan percobaan dan sudah dilakukan perbaikan pada kesalahan.
+
+2. Tambahkan method untuk operator <, <=, >= ! 
+= Sudah dilakukan pada Class Rasional
+
+3.Ubah method sederhana pada baris 25 – 30 yang awalnya adalah menggunakan while menjadi 
+for!
+= Sudah dilakukan konversi dari while menjadi for.
+
+4. Tambahkan method untuk operasi -, * , / !
+= Sudah ditambahkan method untuk operasi -, * , / !
+throw new ArithmeticException digunakan untuk dibagi angka penyebut !0

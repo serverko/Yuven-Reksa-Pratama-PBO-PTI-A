@@ -1,0 +1,11 @@
+1. Lakukan percobaan diatas dan benahi jika menemukan kesalahan!
+= Sudah dilakukan percobaan dan sudah dilakukan perbaikan pada kesalahan.
+
+2. Jika pada baris 7, pada parameter double value dan double value2 di hapus dan di ganti 
+menjadi int a dan int b apa yang terjadi? Jelaskan!
+=Program mengalami error, dikarenakan program memiliki dua method HitungLuas dengan parameter 
+yang sama(int a, int b) sehingga mengalami error.
+
+3. Rubah  method  pada  baris  ketujuh  menjadi  method  bertipe  void,  dan  lakukan  juga 
+perubahan main method.
+= berhasil dilakukan konversi method menjadi bertipe void.

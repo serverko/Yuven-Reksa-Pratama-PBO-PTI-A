@@ -1,0 +1,27 @@
+1. Lakukan percobaan dan benahi jika menemukan kesalahan!
+= Sudah dilakukan percobaan dan sudah dilakukan perbaikan pada kesalahan.
+
+2. Tambahkan constructor pada class Student dengan parameter yang mempunyai 
+parameter  masing  masing  nilai  dari  mata  pelajaran  yang  ada!  Kemudian  buat  contoh 
+objeknya pada main Class!
+= Konstruktor baru: Menambahkan konstruktor Siswa (String n, String a, int ag, double math, double english, double science) 
+yang menggunakan nilai mapel tiap individu sebagai parameter.
+
+3. Tambahkan  method  dengan  nilai  balikan  berupa  boolean  pada  class  student  bernama 
+statusAkhir  untuk  menentukan  apakah  siswa  tersebut  remidi  atau  tidak.  Ketentuannya 
+adalah jika nilai lebih dari atau sama dengan 61 adalah lolos sedangkan nilai kurang dari 
+atau sama dengan 60 adakah remidi. Nilai yang di cari adalah nilai rata rata untuk semua 
+mapel. Kemudian nilai pada method statusAkhir tampilkan pada method displayMessage!
+= Menambahkan metode baru statusAkhir() yang mengembalikan nilai true jika rata-rata lebih besar dari atau sama dengan 61 (lulus) 
+dan salah jika sebaliknya (remidi),
+Selanjutnya, Memodifikasi displayMessage() untuk memanggil metode statusAkhir().
+
+4.Bagaimana  cara  memasukkan  jumlah  siswa  sesuai  dengan  keinginan  user?  Tuliskan 
+kodenya dengan inputan user yang interaktif! (key : menggunakan array) 
+= Dengan menggunakan array students
+
+5. Bagaimana cara menghitung banyaknya objek yang kita buat dari sebuah menginstance 
+objek  dari  mein  class?  Tuliskan  kodenya  kemudian  tampilkan  informasinya  dengan 
+memanggil method jumlahObjek() bertipe void!
+= variabel banyakStudent akan bertambah setiap kali sebuah objek Student dibuat pada konstruktor. 
+Kemudian, dipanggil metode jumlahObjek() bertipe void untuk menampilkan jumlah total objek yang telah dibuat.
