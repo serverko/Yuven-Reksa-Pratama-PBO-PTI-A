@@ -68,7 +68,7 @@ public class SwalayanTiny {
                 System.out.println("Autentikasi gagal. Pastikan nomor pelanggan dan PIN benar.");
                 System.out.println();
             }
-            input.close();
+            // input.close();
         }
     }
 }
