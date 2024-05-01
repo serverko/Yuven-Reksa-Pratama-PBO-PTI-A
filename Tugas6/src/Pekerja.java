@@ -1,4 +1,5 @@
 package Tugas6.src;
+
 import java.time.LocalDate;
 
 public class Pekerja extends Manusia {
@@ -6,7 +7,8 @@ public class Pekerja extends Manusia {
     private LocalDate tahunMasuk;
     private int jumlahAnak;
 
-    public Pekerja(String nama, boolean jenisKelamin, String nik, boolean menikah, double gaji, LocalDate tahunMasuk, int jumlahAnak) {
+    public Pekerja(String nama, boolean jenisKelamin, String nik, boolean menikah, double gaji, LocalDate tahunMasuk,
+            int jumlahAnak) {
         super(nama, jenisKelamin, nik, menikah);
         this.gaji = gaji;
         this.tahunMasuk = tahunMasuk;
