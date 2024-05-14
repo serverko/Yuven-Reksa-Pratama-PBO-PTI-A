@@ -1,10 +1,10 @@
 # 📁 Tugas 8 : Upcasting Downcasting
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Yuven Reksa Pratama
+NIM  : 235150600111013
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/9FpFz1aqWsk
 
